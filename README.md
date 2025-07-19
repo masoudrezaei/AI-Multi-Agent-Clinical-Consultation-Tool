@@ -6,7 +6,7 @@
 
 A user-friendly web application that simulates a multi-specialty clinical case conference using a team of specialized Large Language Model (LLM) agents. This tool leverages Microsoft's AutoGen framework and Google's Gemini models to generate a collaborative diagnosis and management plan.
 
-![App Screenshot]("Figure 1.png")
+![App Screenshot](Figure 1.png)
 
 ## About The Project
 
